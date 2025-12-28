@@ -9,7 +9,8 @@ ________________________________________________________________________________
 
 Notebooks `.ipynb` and `.py` scripts:
 
-01. [Repository - Data Analysis projects](https://github.com/getgreater85/Yandex-Practicum-DA)  
+01. [Repository - DataCamp DA projects](https://github.com/getgreater85/DataCamp-DA)
+02. [Repository - Yandex Practicum DA projects](https://github.com/getgreater85/Yandex-Practicum-DA)  
 
 
 <hr>
