@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 Notebooks `.ipynb` and `.py` scripts:
 
-01. [Repository - DataCamp DA projects](https://github.com/getgreater85/Data-Camp-DA)
+01. [Repository - Hotel Booking Cancellation Analysis](https://github.com/getgreater85/hotel-booking-cancellation-analysis)
 02. [Repository - Yandex Practicum DA projects](https://github.com/getgreater85/Yandex-Practicum-DA)  
 
 
@@ -38,6 +38,7 @@ Notebooks `.ipynb` and `.py` scripts:
 | [04. Research of movies which received government support](https://github.com/getgreater85/Yandex-Practicum-DA/blob/main/4_govt_supported_movies_analysis/4_govt_supported_movies_analysis_EN.ipynb) | We need to study the local film distribution market and identify current trends. We will focus on films that have received government support. We will try to answer the question of how interesting such films are to the viewer. | Pandas, Matplotlib, Seaborn, NumPy, Datetime. Exploratory data analysis, data preprocessing, visualization. |
 | [05. Investment Funds SQL Queries](https://github.com/getgreater85/Yandex-Practicum-DA/blob/main/5_investment_funds_SQL_queries/PostgreSQL_queries.md) | In this project, we need to analyze the data about funds and investments and write appropriate SQL queries to the database. | PostgreSQL Exploratory data analysis, data preprocessing, visualization. |
 | [06. Customer Lifetime Value Optimization Through Proactive Health Engagement](https://github.com/getgreater85/Data-Camp-DA/tree/main/01-insurance-cx-analysis) | Study patient health engagement metrics to predict churn and identify high-value segments. The goal is to correlate activity levels with retention to optimize CLV. | Pandas, Matplotlib, Seaborn, Scikit-Learn. Exploratory data analysis, predictive modeling, customer segmentation. |
+| [07. Hotel Booking Cancellation Analysis](https://github.com/getgreater85/hotel-booking-cancellation-analysis) | This comprehensive EDA examines 36,274 hotel booking records to identify key drivers of cancellations and provide actionable business recommendations. Through advanced statistical analysis and feature engineering, this project reveals insights that could recover $400K-600K annually through targeted interventions. | Pandas, Matplotlib, Seaborn, Scikit-Learn, React, Dashboards. EDA, predictive modeling, customer segmentation. |
 <br>
 
 ![Rodion's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=getgreater85&show_icons=true&theme=blue-green)
