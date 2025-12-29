@@ -10,8 +10,9 @@ ________________________________________________________________________________
 Notebooks `.ipynb` and `.py` scripts:
 
 01. [Repository - Hotel Booking Cancellation Analysis](https://github.com/getgreater85/hotel-booking-cancellation-analysis)
-02. [Repository - Yandex Practicum DA projects](https://github.com/getgreater85/Yandex-Practicum-DA)  
-
+02. [Repository - CX Data Analyst Portfolio Project - Insurance Industry](https://github.com/getgreater85/insurance-cx-portfolio) 
+03. [Repository - Yandex Practicum DA projects](https://github.com/getgreater85/Yandex-Practicum-DA)  
+https://github.com/getgreater85/insurance-cx-portfolio
 
 <hr>
 
