@@ -11,7 +11,7 @@ Notebooks `.ipynb` and `.py` scripts:
 
 01. [Repository - CX Data Analyst Portfolio Project - Insurance Industry](https://github.com/getgreater85/insurance-cx-portfolio) 
 02. [Repository - Hotel Booking Cancellation Analysis](https://github.com/getgreater85/hotel-booking-cancellation-analysis)
-03. [Repository -  | - Insurance Industry](https://github.com/getgreater85/insurance-cx-portfolio) 
+03. [Repository - LEGO Database Analysis: SQL in Python Environment](https://github.com/getgreater85/insurance-cx-portfolio) 
 04. [Repository - Yandex Practicum Assorted DA projects](https://github.com/getgreater85/Yandex-Practicum-DA)  
 
 <hr>
